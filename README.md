@@ -28,4 +28,4 @@ This project implements a video classification model using deep learning to impr
    
 2. Navigate to the project directory:
   ```bash
-  cd video-classification-deep-learning
+   cd video-classification-deep-learning
