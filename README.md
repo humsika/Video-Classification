@@ -27,5 +27,5 @@ This project implements a video classification model using deep learning to impr
    git clone https://github.com/yourgithubusername/video-classification-deep-learning.git
    
 2. Navigate to the project directory:
-  ```bash
-   cd video-classification-deep-learning
+     ```bash
+     cd video-classification-deep-learning
